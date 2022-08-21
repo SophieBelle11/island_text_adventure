@@ -100,6 +100,7 @@ if choose == 'left' or 'jungle':
 	
 	""")
 							print("You fall and hit the jungle floor with an impact that breaks every bone in your body, unable to move you lie there in agony, wondering what will become of you now.")
+							time.sleep(1.0)
 							print("""
 							
 	As dawn breaks a strange crab scuttles into view, but quickly darts off. You are concerned but can do nothing, it matters not for the crab returns with a group that encircles you.
