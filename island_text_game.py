@@ -25,7 +25,6 @@ time.sleep(1.0)
 print("Well, " + name + ", tell me...")
 begin = input("are you ready to start your adventure?\n")
 
-
 if begin == 'yes' or 'Yes': 
 	print("""
 
