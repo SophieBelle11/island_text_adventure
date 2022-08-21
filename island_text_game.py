@@ -36,7 +36,7 @@ elif begin == 'no' or 'No':
 else:
 		print("What are ya daft?")
 
-#Starting the adventure
+#Starting the Adventure
 time.sleep(0.5)	
 choose = input("Where do you head, left towards the jungle or right along the coast?")
 
